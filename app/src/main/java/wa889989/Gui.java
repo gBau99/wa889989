@@ -23,5 +23,4 @@ public class Gui(){
     window = new JFrame("Calculator");
     window.setSize(WINDOW_WIDTH, WINDOW_HEIGHT);
     window.setLocationRelativeTo(null); // Move window to center
-
 }
